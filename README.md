@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pinakeshwar Vaishnav</h1>
 <h3 align="center">A passionate full stack developer who likes to learn new things.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pinakeshwarvaishnav" alt="pinakeshwarvaishnav" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/pinakeshwarv" target="blank"><img src="https://img.shields.io/twitter/follow/pinakeshwarv?logo=twitter&style=for-the-badge" alt="pinakeshwarv" /></a> </p>
 
 - 📫 How to reach me **https://twitter.com/PinakeshwarV**
