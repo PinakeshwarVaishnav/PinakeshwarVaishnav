@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pinakeshwar Vaishnav</h1>
 <h3 align="center">A passionate full stack developer who likes to learn new things.</h3>
 
-<p align="left"> <a href="https://twitter.com/pinakeshwarv" target="blank"><img src="https://img.shields.io/twitter/follow/pinakeshwarv?logo=twitter&style=for-the-badge" alt="pinakeshwarv" /></a> </p>
-
 - 📫 How to reach me **https://twitter.com/PinakeshwarV**
 
 <h3 align="left">Connect with me:</h3>
