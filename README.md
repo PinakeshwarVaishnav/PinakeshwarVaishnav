@@ -6,7 +6,6 @@ Hi there! I'm a **Full Stack Developer** specializing in building efficient, sca
 
 ## About Me
 - 🧑‍💻 Passionate about full stack development and creating impactful projects.
-- 📜 Certified by **Full Stack Open** for mastering modern web development.
 - 🌍 Open to remote opportunities worldwide.
 
 ---
