@@ -39,7 +39,7 @@ Hi there! I'm a **Full Stack Developer** specializing in building efficient, sca
 
 ## 🏆 Achievements
 - 🎓 Completed the **Full Stack Open** course with a focus on modern web development.
-- 🌟 Contributed to open-source projects, including [Project Name](link).
+- 🌟 Contributed to open-source projects, including [](link).
 - 💻 Built 10+ projects demonstrating advanced skills in full stack development.
 
 ---
@@ -47,8 +47,7 @@ Hi there! I'm a **Full Stack Developer** specializing in building efficient, sca
 ## 📫 Contact Me
 
 - **LinkedIn**: [https://www.linkedin.com/in/pinakeshwar-vaishnav-519750306/](https://www.linkedin.com/in/pinakeshwar-vaishnav-519750306/)
-- **Portfolio**: [your-portfolio-link](https://your-portfolio-link.com)
-- **GitHub**: [https://github.com/PinakeshwarVaishnav](https://github.com/PinakeshwarVaishnav)
+- **Portfolio**: [your-portfolio-link]()
 
 ---
 
