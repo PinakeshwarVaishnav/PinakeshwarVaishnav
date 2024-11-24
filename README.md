@@ -16,6 +16,11 @@ Hi there! I'm a **Full Stack Developer** specializing in building efficient, sca
 
 ---
 
+
+![Full Stack Open GraphQL Certificate](https://github.com/PinakeshwarVaishnav/PinakeshwarVaishnav/blob/main/assets/certificate-graphql.png)
+
+---
+
 ## 🏗️ Projects
 
 ---
