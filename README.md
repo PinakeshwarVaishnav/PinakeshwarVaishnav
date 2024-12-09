@@ -1,12 +1,14 @@
-# 🚀 Full Stack Developer | Open to Remote Jobs & Internships
+# 🚀 Full Stack Developer & AI/ML Enthusiast | Open to Remote Jobs & Internships
 
-Hi there! I'm a **Full Stack Developer** specializing in building efficient, scalable, and user-friendly web applications.
+Hi there! I'm a **Full Stack Developer** specializing in building efficient, scalable, and user-friendly web applications. I'm also passionate about **Artificial Intelligence** and **Machine Learning**, with a strong interest in exploring their applications in real-world projects.
 
 ---
 
 ## About Me
 - 🧑‍💻 Passionate about full stack development and creating impactful projects.
+- 🤖 AI/ML enthusiast
 - 🌍 Open to remote opportunities worldwide.
+- 📚 Always looking to expand my skill set and collaborate on innovative projects.
 
 ---
 
@@ -16,19 +18,7 @@ Hi there! I'm a **Full Stack Developer** specializing in building efficient, sca
 
 ---
 
-
 ![Full Stack Open GraphQL Certificate](https://github.com/PinakeshwarVaishnav/PinakeshwarVaishnav/blob/main/assets/certificate-graphql.png)
-
----
-
-## 🏗️ Projects
-
----
-
-## 🏆 Achievements
-- 🎓 Completed the **Full Stack Open** course with a focus on modern web development.
-- 🌟 Contributed to open-source projects, including [to be added]().
-- 💻 Built 10+ projects demonstrating advanced skills in full stack development.
 
 ---
 
@@ -38,5 +28,3 @@ Hi there! I'm a **Full Stack Developer** specializing in building efficient, sca
 - **Portfolio**: [to be added]()
 
 ---
-
-🔗 Connect with me | 🌍 Available for remote work
