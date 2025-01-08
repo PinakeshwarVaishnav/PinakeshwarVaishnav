@@ -29,4 +29,4 @@ Comprehensive course in full stack web development covering JavaScript, React, N
 
 ## Certifications
 
-- **Full Stack Open** – University of Helsinki [https://raw.githubusercontent.com/PinakeshwarVaishnav/PinakeshwarVaishnav/refs/heads/main/assets/certificate-fullstack.png]
+- **Full Stack Open** – [University of Helsinki](https://raw.githubusercontent.com/PinakeshwarVaishnav/PinakeshwarVaishnav/refs/heads/main/assets/certificate-fullstack.png)
