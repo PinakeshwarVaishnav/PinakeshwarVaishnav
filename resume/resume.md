@@ -19,3 +19,14 @@ Passionate Full Stack Developer skilled in React, Node.js, and MongoDB through e
 - **Remote & Collaboration Tools**: GitHub, Zoom
 
 ---
+
+## Education
+
+**Full Stack Open** – University of Helsinki  
+Comprehensive course in full stack web development covering JavaScript, React, Node.js, and MongoDB, along with REST APIs, testing, and deployment.
+
+---
+
+## Certifications
+
+- **Full Stack Open** – University of Helsinki [https://raw.githubusercontent.com/PinakeshwarVaishnav/PinakeshwarVaishnav/refs/heads/main/assets/certificate-fullstack.png]
