@@ -5,49 +5,47 @@
 
 ## Professional Profile
 
-A highly motivated, results-oriented, and self-driven technology professional with comprehensive expertise spanning **Full Stack Web Development** and cutting-edge **Artificial Intelligence (AI) and Machine Learning (ML)**. Passionate about architecting and developing innovative, end-to-end solutions that solve complex problems and deliver tangible value. Proven ability to rapidly master new technologies and methodologies, demonstrated through extensive project-based learning and successful completion of the rigorous Full Stack Open curriculum. Adept at leveraging a versatile skillset—encompassing frontend (React, Next.js), backend (Node.js), and advanced AI/ML techniques (Python, PyTorch, Scikit-learn, NLP, Generative AI concepts, LLM understanding)—to build robust, scalable, and intelligent applications. Committed to continuous learning and applying best practices to contribute significantly to impactful projects in either AI-focused or Full Stack engineering roles.
+A highly analytical, results-driven **AI Engineering & Full-Stack Professional** with a proven track record of architecting and deploying end-to-end, high-performance intelligent systems. Completely self-taught with deep first-principles expertise across Machine Learning mathematics, multi-modal generative AI pipelines, and robust software engineering. Adept at breaking down complex problems, optimizing high-throughput model serving infrastructure, and shipping production-ready code. Demonstrated capability to excel in fast-paced, remote environments, successfully transitioning advanced AI research (NLP, LLMs, Voice, Video generation) into containerized, low-latency production applications. Committed to engineering excellence, writing clean code, and building scalable software that delivers immediate business value.
 
 ---
 
 ## Core Competencies & Technical Skills
 
 **1. AI & Machine Learning Engineering:**
+* **Generative AI & Multi-Modal Pipelines:** Large Language Models (LLMs), vLLM, vLLM-Omni, Text-to-Speech (TTS) / Voice Cloning, Video Generation Models, Prompt Engineering, Retrieval-Augmented Generation (RAG).
+* **ML/DL Frameworks & Libraries:** Python, PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn.
+* **Deep Learning & NLP:** Transformers, CNNs, RNNs, Text Preprocessing, Sentiment Analysis, Named Entity Recognition (NER), SpaCy, NLTK.
+* **Model Lifecycle:** High-performance model serving, Data Preprocessing, Feature Engineering, Model Evaluation & Optimization.
 
-* **Languages & Libraries:** Python (Proficient), Pandas, NumPy, Matplotlib, Seaborn
-* **ML/DL Frameworks:** PyTorch, Scikit-learn
-* **Specializations:**
-  * Deep Learning: Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), Transformers
-  * Natural Language Processing (NLP): Text Preprocessing, Sentiment Analysis, Topic Modeling, Named Entity Recognition (NER), NLTK, SpaCy
-  * Generative AI: Understanding of Large Language Models (LLMs), Prompt Engineering principles, Core concepts of Retrieval-Augmented Generation (RAG)
-* **Model Lifecycle:** Data Collection & Preprocessing, Feature Engineering, Model Training & Evaluation, Basic understanding of model deployment strategies.
-* **Problem Solving:** Applying ML/DL to solve real-world problems in areas like computer vision, text analysis, and predictive modeling.
+**2. Backend Serving & DevOps:**
+* **Backend Frameworks:** FastAPI (Asynchronous API Design), Node.js, Express.js.
+* **Containerization & Orchestration:** Docker, Docker Compose (Multi-container environments, Multi-stage builds).
+* **Development Environment:** Ubuntu Linux, Neovim, Advanced System Configuration, Shell Scripting.
+* **CI/CD & Version Control:** Git, GitHub (Branching strategies, Collaborative workflows), GitHub Actions.
 
-**2. Full Stack Web Development:**
-
-* **Frontend:** JavaScript (ES6+), TypeScript, React, Next.js, HTML5, CSS3, Tailwind CSS, Responsive Design
-* **Backend:** Node.js, Express.js
-* **APIs:** RESTful API Design & Development, GraphQL
-* **Databases:**
-  * NoSQL: MongoDB (Data Modeling, Mongoose)
-  * SQL: PostgreSQL
-* **Architecture:** Microservices understanding, MVC/MVVM patterns
-
-**3. Software Engineering & DevOps Fundamentals:**
-
-* **Version Control:** Git, GitHub (Workflows, Branching Strategies)
-* **Containerization:** Docker (Image Creation, Container Management)
-* **CI/CD:** Basic understanding and experience with tools like GitHub Actions
-* **Testing:** Unit Testing, Integration Testing concepts
-* **Agile Methodologies:** Familiarity with Agile/Scrum principles
-* **Problem Solving & Analytical Skills:** Strong ability to analyze requirements, identify solutions, and debug complex issues.
-* **Communication & Collaboration:** Effective in remote team environments (Zoom, Slack).
+**3. Full Stack Web Development:**
+* **Frontend:** JavaScript (ES6+), TypeScript, React, Next.js, HTML5, CSS3, Tailwind CSS, Responsive Design.
+* **APIs & Databases:** RESTful APIs, GraphQL, PostgreSQL (SQL), MongoDB / Mongoose (NoSQL).
+* **Architecture:** Microservices, MVC patterns, clean architectural abstractions.
 
 ---
 
-## Education
+## Professional Experience
+
+### **Anivale** | *AI Engineer Intern* | Remote, India
+*February 2026 – Present*
+
+* **Multi-Modal AI Pipeline:** Architected and integrated a production-ready, end-to-end generative AI pipeline orchestrating advanced NLP/LLM text generation, low-latency voice cloning (TTS), and automated video generation models.
+* **High-Performance Serving:** Implemented **vLLM** and **vLLM-Omni** to optimize LLM throughput and multi-modal inference execution, significantly lowering Time-to-First-Token (TTFT) and reducing operational costs.
+* **Asynchronous API Design:** Built and optimized highly concurrent, asynchronous backend services using **FastAPI** to seamlessly stream data and manage workflows across separate AI model stages.
+* **Containerized Deployment:** Standardized development, testing, and staging environments by containerizing the multi-model architecture using **Docker** and **Docker Compose**, ensuring seamless multi-container orchestration.
+* **Infrastructure Management:** Configured and managed high-performance workloads within a native **Ubuntu Linux** environment, ensuring optimal GPU resource allocation and minimal system overhead.
+
+---
+
+## Education & Certifications
 
 * **Full Stack Open** – University of Helsinki
-    * *Description:* Successfully completed a comprehensive and intensive program focused on modern Full Stack Development, covering JavaScript, React, Redux, Node.js, Express.js, MongoDB, GraphQL, REST APIs, TypeScript, CI/CD, and Containers. Emphasized practical application and project-based learning.
-    * *Certificate:* [University of Helsinki](https://github.com/PinakeshwarVaishnav/PinakeshwarVaishnav/blob/main/certificates/certificate-fullstack.png?raw=true)
-
----
+    * *Focus:* Comprehensive, production-grade curriculum covering JavaScript, React, Redux, Node.js, Express.js, MongoDB, GraphQL, REST APIs, TypeScript, CI/CD pipelines, and Docker containers. Emphasized test-driven development and scalable architecture.
+    * *Certificate:* [University of Helsinki Verification](https://github.com/PinakeshwarVaishnav/PinakeshwarVaishnav/blob/main/certificates/certificate-fullstack.png?raw=true)
+* **Independent Specializations:** Deep structural study of Deep Learning architectures, computational linear algebra, and advanced calculus for machine learning systems.
