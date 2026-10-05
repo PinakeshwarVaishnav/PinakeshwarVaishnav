@@ -1,5 +1,5 @@
 # Pinakeshwar Vaishnav
-[LinkedIn](https://in.linkedin.com/in/pinakeshwar-vaishnav-519750306) | [GitHub](https://github.com/PinakeshwarVaishnav) | [Portfolio](https://my-website-chi-cyan.vercel.app/)
+[LinkedIn](https://in.linkedin.com/in/pinakeshwar-vaishnav-519750306) | [GitHub](https://github.com/PinakeshwarVaishnav) | [Personal Website](https://pinakeshwar-vaishnav-site.vercel.app/)
 
 ---
 
@@ -33,7 +33,7 @@ A highly analytical, results-driven **AI Engineering & Full-Stack Professional**
 ## Professional Experience
 
 ### **Anivale** | *AI Engineer Intern* | Remote, India
-*February 2026 – Present*
+*February 2026 – October 2026*
 
 * **Multi-Modal AI Pipeline:** Architected and integrated a production-ready, end-to-end generative AI pipeline orchestrating advanced NLP/LLM text generation, low-latency voice cloning (TTS), and automated video generation models.
 * **High-Performance Serving:** Implemented **vLLM** and **vLLM-Omni** to optimize LLM throughput and multi-modal inference execution, significantly lowering Time-to-First-Token (TTFT) and reducing operational costs.
