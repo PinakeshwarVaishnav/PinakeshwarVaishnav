@@ -1,27 +1,29 @@
 # Pinakeshwar Vaishnav
-[LinkedIn](https://in.linkedin.com/in/pinakeshwar-vaishnav-519750306) | [GitHub](https://github.com/PinakeshwarVaishnav) | [Personal Website](https://pinakeshwar-vaishnav-site.vercel.app/)
+**AI Inference & Infrastructure Engineer**
+
+[LinkedIn](https://www.linkedin.com/in/pinakeshwar-vaishnav-519750306) | [GitHub](https://github.com/PinakeshwarVaishnav) | [Hugging Face](https://huggingface.co/PinakeshwarV) | [Kaggle](https://www.kaggle.com/pinakeshwar) | [X](https://x.com/PinakeshwarV) | [Portfolio](https://pinakeshwar-vaishnav-site.vercel.app/)
 
 ---
 
 ## Professional Profile
 
-A highly analytical, results-driven **AI Engineering & Full-Stack Professional** with a proven track record of architecting and deploying end-to-end, high-performance intelligent systems. Completely self-taught with deep first-principles expertise across Machine Learning mathematics, multi-modal generative AI pipelines, and robust software engineering. Adept at breaking down complex problems, optimizing high-throughput model serving infrastructure, and shipping production-ready code. Demonstrated capability to excel in fast-paced, remote environments, successfully transitioning advanced AI research (NLP, LLMs, Voice, Video generation) into containerized, low-latency production applications. Committed to engineering excellence, writing clean code, and building scalable software that delivers immediate business value.
+Self-taught **AI Inference & Infrastructure Engineer** with hands-on experience building and serving multimodal generative AI pipelines. Experienced with **vLLM, vLLM-Omni, FastAPI, Python, Docker, and Linux**, including asynchronous API services, containerized deployments, and remote GPU workloads. Focused on LLM inference, model-serving reliability, latency and throughput evaluation, and reproducible infrastructure engineering. Combines practical AI engineering experience with a software engineering foundation and a commitment to building measurable, reliable systems.
 
 ---
 
 ## Core Competencies & Technical Skills
 
-**1. AI & Machine Learning Engineering:**
-* **Generative AI & Multi-Modal Pipelines:** Large Language Models (LLMs), vLLM, vLLM-Omni, Text-to-Speech (TTS) / Voice Cloning, Video Generation Models, Prompt Engineering, Retrieval-Augmented Generation (RAG).
+**1. AI Inference & Machine Learning Engineering:**
+* **LLM Inference & Multimodal Serving:** Large Language Models (LLMs), vLLM, vLLM-Omni, Text-to-Speech (TTS), Video Generation Models, Retrieval-Augmented Generation (RAG).
 * **ML/DL Frameworks & Libraries:** Python, PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn.
 * **Deep Learning & NLP:** Transformers, CNNs, RNNs, Text Preprocessing, Sentiment Analysis, Named Entity Recognition (NER), SpaCy, NLTK.
-* **Model Lifecycle:** High-performance model serving, Data Preprocessing, Feature Engineering, Model Evaluation & Optimization.
+* **Inference & Model Lifecycle:** Model Serving, Model Evaluation, Inference Performance Optimization, Data Preprocessing, Feature Engineering.
 
-**2. Backend Serving & DevOps:**
-* **Backend Frameworks:** FastAPI (Asynchronous API Design), Node.js, Express.js.
-* **Containerization & Orchestration:** Docker, Docker Compose (Multi-container environments, Multi-stage builds).
-* **Development Environment:** Ubuntu Linux, Neovim, Advanced System Configuration, Shell Scripting.
-* **CI/CD & Version Control:** Git, GitHub (Branching strategies, Collaborative workflows), GitHub Actions.
+**2. Backend Serving & Infrastructure:**
+* **Backend Frameworks:** Python, FastAPI, Asynchronous API Design, Node.js, Express.js.
+* **Containerization & Deployment:** Docker, Docker Compose, Multi-container Environments, Multi-stage Builds.
+* **Linux & Systems:** Ubuntu Linux, Shell Scripting, Development Environment Configuration, Remote GPU Workloads.
+* **CI/CD & Version Control:** Git, GitHub, Branching Strategies, Collaborative Workflows, GitHub Actions.
 
 **3. Full Stack Web Development:**
 * **Frontend:** JavaScript (ES6+), TypeScript, React, Next.js, HTML5, CSS3, Tailwind CSS, Responsive Design.
@@ -35,11 +37,11 @@ A highly analytical, results-driven **AI Engineering & Full-Stack Professional**
 ### **Anivale** | *AI Engineer Intern* | Remote, India
 *February 2026 – October 2026*
 
-* **Multi-Modal AI Pipeline:** Architected and integrated a production-ready, end-to-end generative AI pipeline orchestrating advanced NLP/LLM text generation, low-latency voice cloning (TTS), and automated video generation models.
-* **High-Performance Serving:** Implemented **vLLM** and **vLLM-Omni** to optimize LLM throughput and multi-modal inference execution, significantly lowering Time-to-First-Token (TTFT) and reducing operational costs.
-* **Asynchronous API Design:** Built and optimized highly concurrent, asynchronous backend services using **FastAPI** to seamlessly stream data and manage workflows across separate AI model stages.
-* **Containerized Deployment:** Standardized development, testing, and staging environments by containerizing the multi-model architecture using **Docker** and **Docker Compose**, ensuring seamless multi-container orchestration.
-* **Infrastructure Management:** Configured and managed high-performance workloads within a native **Ubuntu Linux** environment, ensuring optimal GPU resource allocation and minimal system overhead.
+* **Multimodal AI Pipelines:** Integrated workflows combining LLM text generation, text-to-speech (TTS), and video generation components.
+* **LLM Inference & Serving:** Worked with **vLLM** and **vLLM-Omni** for model serving and multimodal inference execution, focusing on throughput, latency, and Time to First Token (TTFT).
+* **Asynchronous API Design:** Built and optimized asynchronous backend services using **FastAPI** to coordinate data and workflows across separate AI model stages.
+* **Containerized Deployment:** Used **Docker** and **Docker Compose** to package and run multi-service AI workloads across development, testing, and staging environments.
+* **Linux & GPU Infrastructure:** Configured and managed AI workloads in **Ubuntu Linux** environments using remote GPU servers.
 
 ---
 
@@ -48,4 +50,3 @@ A highly analytical, results-driven **AI Engineering & Full-Stack Professional**
 * **Full Stack Open** – University of Helsinki
     * *Focus:* Comprehensive, production-grade curriculum covering JavaScript, React, Redux, Node.js, Express.js, MongoDB, GraphQL, REST APIs, TypeScript, CI/CD pipelines, and Docker containers. Emphasized test-driven development and scalable architecture.
     * *Certificate:* [University of Helsinki Verification](https://github.com/PinakeshwarVaishnav/PinakeshwarVaishnav/blob/main/certificates/certificate-fullstack.png?raw=true)
-* **Independent Specializations:** Deep structural study of Deep Learning architectures, computational linear algebra, and advanced calculus for machine learning systems.
